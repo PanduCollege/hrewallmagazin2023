@@ -38,7 +38,7 @@ img{
     padding: 20px;
     transition: 0.5s;
     left: calc(50% - 110px);
-    margin-top: 10%;
+    margin-top: 25%;
 }
 #next, #prev{
     display: none;
